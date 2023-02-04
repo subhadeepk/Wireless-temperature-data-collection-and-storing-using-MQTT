@@ -1,4 +1,5 @@
 # Wireless-temperature-data-collection-and-storing-using-MQTT
+You may refer to the video tutorials here - https://youtube.com/playlist?list=PLhrvBKyDzmRlxWfILF5Y58v7cU-1IMhBz
 
 Mqtt setup
 1. Install mosquitto https://mosquitto.org/download/
@@ -14,7 +15,7 @@ DONE :)
 
 Arduino Setup(Arduino ide has to be installed)
 1. Preference- http://arduino.esp8266.com/stable/package_esp8266com_index.json
-2. Copy and paste libraries
+2. Copy and paste libraries that can be found in this drive folder - https://drive.google.com/drive/folders/1x0LPMp53VNQvJMe4wP7EKm_GjjCyCwgh?usp=sharing
 3. Board manager- esp and install 
 4. Select board
 5. Change WIFI credenditals and IP in the arduino code
