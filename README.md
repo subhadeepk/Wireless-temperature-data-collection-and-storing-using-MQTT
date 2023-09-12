@@ -1,7 +1,7 @@
 # Wireless-temperature-data-collection-and-storing-using-MQTT
 You may refer to the video tutorials here - https://youtube.com/playlist?list=PLhrvBKyDzmRlxWfILF5Y58v7cU-1IMhBz
 
-##Mqtt setup
+## Mqtt setup
 1. Install mosquitto https://mosquitto.org/download/
 2. Install mqtt explorer  http://mqtt-explorer.com/
 3. Change config file for mosquitto
@@ -13,7 +13,7 @@ When in doubt visit the website https://tiagohorta1995.medium.com/mosquitto-mqtt
 
 DONE :)
 
-##Arduino Setup(Arduino ide has to be installed)
+## Arduino Setup(Arduino ide has to be installed)
 1. Preference- http://arduino.esp8266.com/stable/package_esp8266com_index.json
 2. Copy and paste libraries that can be found in this drive folder - https://drive.google.com/drive/folders/1x0LPMp53VNQvJMe4wP7EKm_GjjCyCwgh?usp=sharing
 3. Board manager- esp and install 
@@ -24,7 +24,7 @@ DONE :)
 The mqtt explorer is recieving the messages from esp8266. 
 Setup done :)
 
-##Python setup (Python has to be installed)
+## Python setup (Python has to be installed)
 1. python -m pip install paho-mqtt   -Run this command
 2. open and run the python file in data folder
 3. Find the text file that is storing the dATA (Same folder as the code folder)
